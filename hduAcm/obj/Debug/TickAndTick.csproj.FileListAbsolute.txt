@@ -1,0 +1,6 @@
+c:\users\linch\documents\visual studio 2015\Projects\hduAcm\hduAcm\obj\Debug\TickAndTick.csprojResolveAssemblyReference.cache
+c:\users\linch\documents\visual studio 2015\Projects\hduAcm\hduAcm\bin\Debug\hduAcm.exe.config
+c:\users\linch\documents\visual studio 2015\Projects\hduAcm\hduAcm\bin\Debug\hduAcm.exe
+c:\users\linch\documents\visual studio 2015\Projects\hduAcm\hduAcm\bin\Debug\hduAcm.pdb
+c:\users\linch\documents\visual studio 2015\Projects\hduAcm\hduAcm\obj\Debug\hduAcm.exe
+c:\users\linch\documents\visual studio 2015\Projects\hduAcm\hduAcm\obj\Debug\hduAcm.pdb
