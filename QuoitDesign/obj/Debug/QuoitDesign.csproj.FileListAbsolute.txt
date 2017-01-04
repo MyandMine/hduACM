@@ -1,0 +1,6 @@
+C:\Users\linch\documents\visual studio 2015\Projects\hduAcm\QuoitDesign\bin\Debug\QuoitDesign.exe.config
+C:\Users\linch\documents\visual studio 2015\Projects\hduAcm\QuoitDesign\bin\Debug\QuoitDesign.exe
+C:\Users\linch\documents\visual studio 2015\Projects\hduAcm\QuoitDesign\bin\Debug\QuoitDesign.pdb
+C:\Users\linch\documents\visual studio 2015\Projects\hduAcm\QuoitDesign\obj\Debug\QuoitDesign.csprojResolveAssemblyReference.cache
+C:\Users\linch\documents\visual studio 2015\Projects\hduAcm\QuoitDesign\obj\Debug\QuoitDesign.exe
+C:\Users\linch\documents\visual studio 2015\Projects\hduAcm\QuoitDesign\obj\Debug\QuoitDesign.pdb
